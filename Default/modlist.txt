@@ -3,7 +3,6 @@
 +NVTF - New Vegas Tick Fix
 +Performance Of The Gods
 +Loot Menu for FNV
--Clarity - An Orange Tint Remover
 +FNV Realistic Wasteland Lighting - Brighter Nights
 +FNV Realistic Wasteland Lighting
 +Interior Fog Remover
