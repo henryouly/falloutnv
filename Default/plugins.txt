@@ -4,6 +4,7 @@ DeadMoney.esm
 HonestHearts.esm
 OldWorldBlues.esm
 LonesomeRoad.esm
+GunRunnersArsenal.esm
 Mannequin Rce.esp
 The Mod Configuration Menu.esp
 JustDynamicCrosshair.esp
