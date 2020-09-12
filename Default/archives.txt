@@ -1,3 +1,4 @@
+Fallout - Invalidation.bsa
 Fallout - AI!.bsa
 Fallout - Misc.bsa
 Fallout - Textures.bsa

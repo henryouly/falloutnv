@@ -10,13 +10,13 @@ MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
 Mannequin Rce.esp
+T4-plugin.esp
 The Mod Configuration Menu.esp
+Performance Of The Gods.esp
 JustDynamicCrosshair.esp
 JustVanillaSprint.esp
-T4-plugin.esp
-Performance Of The Gods.esp
 LootMenu.esp
-NV_IFR.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
+NV_IFR.esp
